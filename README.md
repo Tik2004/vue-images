@@ -1,5 +1,7 @@
 # image-search-js
 
+# Live demo <a href="https://imgtik.netlify.app">Here</a>
+
 ## Project setup
 ```
 npm install
